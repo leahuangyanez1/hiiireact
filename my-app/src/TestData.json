@@ -1,0 +1,69 @@
+{
+    "UIUC_Classes":{
+       "MATH 199":{
+          "name":"Undergrad Open Seminar",
+          "instructor":"Jennifer McNeilly"
+       },
+       "RHET105":{
+          "name":"Writing and Research",
+          "instructor":"Audrey Johnson",
+          "location":"LCD Henry Administration Bldg",
+          "timeDays":[
+             "M",
+             "W",
+             "F"
+          ],
+          "timeHour":{
+             "start":"10:00",
+             "end":"11:00"
+          }
+       },
+       "Sociocultural Anthropology":{
+          "identification":"ANTH 230",
+          "instructor":"Elise Kramer",
+          "location":"LEC Gregory Hall 319",
+          "timeDays":[
+             "T",
+             "Th"
+          ],
+          "timeHour":{
+             "start":"10:00",
+             "end":"11:00"
+          }
+       },
+       "Calculus I":{
+          "identification":"MATH 221",
+          "instructor":"Sarka Petrickova",
+          "location":"LEC Materials Science & Eng Bld",
+          "lectureTimeDays":[
+             "W",
+             "F"
+          ],
+          "lectureTimeHour":"13:00",
+          "discussionTimeDays":[
+             "T",
+             "Th"
+          ],
+          "discussionTimeHour":"14:00"
+       },
+       "Exploring General Studies":{
+          "identification":"GS 101",
+          "instructor":"Sarah Smothers",
+          "location":"LCD Transportation Building",
+          "timeDays":"T",
+          "timeHour":{
+             "start":"10:00",
+             "end":"11:00"
+          }
+       },
+       "Intro to Computer Science I":{
+          "identification":"CS 124",
+          "instructor":"Geoffrey Challen",
+          "location":"OLC",
+          "lectureTimeDays":"T",
+          "lectureTimeHour":"16:00",
+          "discussionTimeDays":"Unspecified",
+          "discussionTimeHour":"Unspecified"
+       }
+    }
+ }
